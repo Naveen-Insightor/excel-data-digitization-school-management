@@ -14,8 +14,8 @@ Digitized and structured preschool records across:
 💰 Fee Payment Tracking
 Data was manually extracted from physical books and reformatted into structured Excel tables.
 
-🛠️ Tools & Technologies Used
-Microsoft Excel
+**🛠️ Tools & Technologies Used
+Microsoft Excel**
 
 Data Validation, Filters, Conditional Formatting
 
